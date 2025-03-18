@@ -19,4 +19,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
     // WIP - game setup
+    // bug fix
 }
